@@ -1,0 +1,14 @@
+#carrousel {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+img {
+    top: 50px;
+    float: left;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+
+
+}
